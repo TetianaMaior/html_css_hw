@@ -21,8 +21,8 @@ h2 + p {
     background-color: darkgray;
 }
 section p {
-    background-color: cornflowerblue;
+    background-color: rgb(101, 18, 68);
 }
 div .page1 {
-    background-color: fuchsia;
+    background-color: rgb(155, 159, 177);
 }
