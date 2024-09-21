@@ -1,0 +1,28 @@
+
+div > p {
+    background-color: aquamarine;
+}
+h4 {
+    background-color: blueviolet;
+}
+.pages {
+    background-color: cadetblue;
+}
+a[href*="stor"] {
+    background-color: rgb(195, 195, 227);
+}
+a[href^="https"] {
+    background-color: chocolate;
+}
+a[href$="only"] {
+    background-color: darkolivegreen;
+}
+h2 + p {
+    background-color: darkgray;
+}
+section p {
+    background-color: cornflowerblue;
+}
+div .page1 {
+    background-color: fuchsia;
+}
